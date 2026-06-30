@@ -12,4 +12,9 @@
 </html>
 my name is arni 123
 i am fine
+<<<<<<< HEAD
 i am tired 
+=======
+i am tired
+>>>>>>> 4b626872f2bb95295e53198ae0872c0a9efe0159
+i am boring
