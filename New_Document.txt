@@ -14,10 +14,11 @@ my name is arni 123
 i am fine
 <<<<<<< HEAD
 i am tired 
-=======
+
 i am tired
 
 i am boring
 i have lots of things to do
+i have nothing to do
 
 
