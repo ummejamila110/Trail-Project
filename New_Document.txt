@@ -19,6 +19,11 @@ i am tired
 
 i am boring
 i have lots of things to do
+<<<<<<< HEAD
 
+=======
+i have nothing to do
+Is change visible?
+>>>>>>> 768b1d0f006b099af1ba96d09dd93f0996cd200d
 
 
