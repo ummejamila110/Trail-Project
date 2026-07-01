@@ -20,4 +20,5 @@ i am tired
 i am boring
 i have lots of things to do
 Final check
+print("i am fine")
 
